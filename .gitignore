@@ -1,0 +1,25 @@
+# 数据库文件
+data/face_system.db
+
+# 日志文件
+logs/*
+
+# 临时文件
+data/temp/*
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+
+# 开发环境文件
+.env
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 样本数据
+data/face_samples/
+
+# 模型数据
+models/model_data/*
